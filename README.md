@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aslam
-- 👀 I’m interested in Blockchain & UX and UI design
+- 👀 I’m Newbie to world of Web Development
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on internship or training
 - 📫 How to reach me mohamedaslam015@gmail.com
